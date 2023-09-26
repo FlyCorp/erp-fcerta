@@ -1,7 +1,7 @@
 {
   "name": "flycorp/erp-fcerta",
   "description": "Comunicação ERP FCerta",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "authors": [
     {
@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "php": "^7.2.5",
+    "php": "^8.1",
     "guzzlehttp/guzzle": "^7.3",
     "ext-json": "*"
   },
