@@ -1,6 +1,7 @@
 {
   "name": "flycorp/erp-fcerta",
   "description": "Comunicação ERP FCerta",
+  "version": "0.0.1",
   "license": "MIT",
   "authors": [
     {
